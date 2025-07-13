@@ -1,0 +1,17 @@
+E:\college\Project III\New one\bin\Debug\net8.0-windows\New one.exe
+E:\college\Project III\New one\bin\Debug\net8.0-windows\New one.deps.json
+E:\college\Project III\New one\bin\Debug\net8.0-windows\New one.runtimeconfig.json
+E:\college\Project III\New one\bin\Debug\net8.0-windows\New one.dll
+E:\college\Project III\New one\bin\Debug\net8.0-windows\New one.pdb
+E:\college\Project III\New one\obj\Debug\net8.0-windows\New one.csproj.GenerateResource.cache
+E:\college\Project III\New one\obj\Debug\net8.0-windows\New one.GeneratedMSBuildEditorConfig.editorconfig
+E:\college\Project III\New one\obj\Debug\net8.0-windows\New one.AssemblyInfoInputs.cache
+E:\college\Project III\New one\obj\Debug\net8.0-windows\New one.AssemblyInfo.cs
+E:\college\Project III\New one\obj\Debug\net8.0-windows\New one.csproj.CoreCompileInputs.cache
+E:\college\Project III\New one\obj\Debug\net8.0-windows\New one.dll
+E:\college\Project III\New one\obj\Debug\net8.0-windows\refint\New one.dll
+E:\college\Project III\New one\obj\Debug\net8.0-windows\New one.pdb
+E:\college\Project III\New one\obj\Debug\net8.0-windows\New one.genruntimeconfig.cache
+E:\college\Project III\New one\obj\Debug\net8.0-windows\ref\New one.dll
+E:\college\Project III\New one\obj\Debug\net8.0-windows\New_one.Properties.Resources.resources
+E:\college\Project III\New one\obj\Debug\net8.0-windows\New_one.Dashboard.resources
