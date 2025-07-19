@@ -40,7 +40,6 @@
             label7 = new Label();
             pictureBox6 = new PictureBox();
             label6 = new Label();
-            pictureBox5 = new PictureBox();
             label4 = new Label();
             pictureBox4 = new PictureBox();
             label3 = new Label();
@@ -53,7 +52,6 @@
             panel8.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox7).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox6).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)pictureBox5).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox4).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox3).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
@@ -126,7 +124,6 @@
             panel1.Controls.Add(panel8);
             panel1.Controls.Add(pictureBox6);
             panel1.Controls.Add(label6);
-            panel1.Controls.Add(pictureBox5);
             panel1.Controls.Add(label4);
             panel1.Controls.Add(pictureBox4);
             panel1.Controls.Add(label3);
@@ -193,31 +190,20 @@
             label6.TabIndex = 9;
             label6.Text = "Log out";
             // 
-            // pictureBox5
-            // 
-            pictureBox5.Image = Properties.Resources.box;
-            pictureBox5.Location = new Point(45, 320);
-            pictureBox5.Name = "pictureBox5";
-            pictureBox5.Size = new Size(25, 25);
-            pictureBox5.SizeMode = PictureBoxSizeMode.StretchImage;
-            pictureBox5.TabIndex = 8;
-            pictureBox5.TabStop = false;
-            // 
             // label4
             // 
             label4.AutoSize = true;
             label4.BackColor = Color.Transparent;
             label4.Font = new Font("Fivo Sans Modern", 14.2499981F, FontStyle.Regular, GraphicsUnit.Point, 0);
             label4.ForeColor = SystemColors.ButtonHighlight;
-            label4.Location = new Point(73, 324);
+            label4.Location = new Point(73, 304);
             label4.Name = "label4";
-            label4.Size = new Size(81, 19);
+            label4.Size = new Size(0, 19);
             label4.TabIndex = 7;
-            label4.Text = "Product";
             // 
             // pictureBox4
             // 
-            pictureBox4.Image = Properties.Resources.users;
+            pictureBox4.Image = Properties.Resources.box;
             pictureBox4.Location = new Point(45, 261);
             pictureBox4.Name = "pictureBox4";
             pictureBox4.Size = new Size(25, 25);
@@ -233,9 +219,10 @@
             label3.ForeColor = SystemColors.ButtonHighlight;
             label3.Location = new Point(73, 265);
             label3.Name = "label3";
-            label3.Size = new Size(107, 19);
+            label3.Size = new Size(81, 19);
             label3.TabIndex = 5;
-            label3.Text = "Customers";
+            label3.Text = "Product";
+            label3.Click += label3_Click;
             // 
             // pictureBox3
             // 
@@ -279,6 +266,7 @@
             Controls.Add(panel1);
             FormBorderStyle = FormBorderStyle.None;
             Name = "Dashboard";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "Form1";
             panel2.ResumeLayout(false);
             panel3.ResumeLayout(false);
@@ -289,7 +277,6 @@
             panel8.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox7).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox6).EndInit();
-            ((System.ComponentModel.ISupportInitialize)pictureBox5).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox4).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox3).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
@@ -305,10 +292,7 @@
         private Label label5;
         private Panel panel5;
         private Panel panel1;
-        private PictureBox pictureBox5;
         private Label label4;
-        private PictureBox pictureBox4;
-        private Label label3;
         private PictureBox pictureBox3;
         private Label label1;
         private PictureBox pictureBox1;
@@ -317,5 +301,7 @@
         private Panel panel8;
         private PictureBox pictureBox7;
         private Label label7;
+        private PictureBox pictureBox4;
+        private Label label3;
     }
 }

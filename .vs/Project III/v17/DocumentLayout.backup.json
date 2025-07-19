@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "E:\\college\\Project III\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B44898D3-41E2-4C39-B4FF-4E26DFC2B12A}|New one\\New one.csproj|e:\\college\\project iii\\new one\\resources\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B44898D3-41E2-4C39-B4FF-4E26DFC2B12A}|New one\\New one.csproj|solutionrelative:new one\\resources\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B44898D3-41E2-4C39-B4FF-4E26DFC2B12A}|New one\\New one.csproj|e:\\college\\project iii\\new one\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B44898D3-41E2-4C39-B4FF-4E26DFC2B12A}|New one\\New one.csproj|solutionrelative:new one\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B44898D3-41E2-4C39-B4FF-4E26DFC2B12A}|New one\\New one.csproj|E:\\college\\Project III\\new one\\resources\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B44898D3-41E2-4C39-B4FF-4E26DFC2B12A}|New one\\New one.csproj|solutionrelative:new one\\resources\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B44898D3-41E2-4C39-B4FF-4E26DFC2B12A}|New one\\New one.csproj|e:\\college\\project iii\\new one\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B44898D3-41E2-4C39-B4FF-4E26DFC2B12A}|New one\\New one.csproj|solutionrelative:new one\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B44898D3-41E2-4C39-B4FF-4E26DFC2B12A}|New one\\New one.csproj|e:\\college\\project iii\\new one\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B44898D3-41E2-4C39-B4FF-4E26DFC2B12A}|New one\\New one.csproj|solutionrelative:new one\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B44898D3-41E2-4C39-B4FF-4E26DFC2B12A}|New one\\New one.csproj|e:\\college\\project iii\\new one\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B44898D3-41E2-4C39-B4FF-4E26DFC2B12A}|New one\\New one.csproj|solutionrelative:new one\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44898D3-41E2-4C39-B4FF-4E26DFC2B12A}|New one\\New one.csproj|E:\\college\\Project III\\new one\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B44898D3-41E2-4C39-B4FF-4E26DFC2B12A}|New one\\New one.csproj|solutionrelative:new one\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44898D3-41E2-4C39-B4FF-4E26DFC2B12A}|New one\\New one.csproj|e:\\college\\project iii\\new one\\resources\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B44898D3-41E2-4C39-B4FF-4E26DFC2B12A}|New one\\New one.csproj|solutionrelative:new one\\resources\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44898D3-41E2-4C39-B4FF-4E26DFC2B12A}|New one\\New one.csproj|e:\\college\\project iii\\new one\\resources\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B44898D3-41E2-4C39-B4FF-4E26DFC2B12A}|New one\\New one.csproj|solutionrelative:new one\\resources\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44898D3-41E2-4C39-B4FF-4E26DFC2B12A}|New one\\New one.csproj|e:\\college\\project iii\\new one\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B44898D3-41E2-4C39-B4FF-4E26DFC2B12A}|New one\\New one.csproj|solutionrelative:new one\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 327,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,44 +54,57 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "E:\\college\\Project III\\New one\\Dashboard.cs",
+              "RelativeDocumentMoniker": "New one\\Dashboard.cs",
+              "ToolTip": "E:\\college\\Project III\\New one\\Dashboard.cs",
+              "RelativeToolTip": "New one\\Dashboard.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T15:41:10.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "login.cs [Design]",
+              "DocumentMoniker": "E:\\college\\Project III\\New one\\login.cs",
+              "RelativeDocumentMoniker": "New one\\login.cs",
+              "ToolTip": "E:\\college\\Project III\\New one\\login.cs [Design]",
+              "RelativeToolTip": "New one\\login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T15:39:39.163Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Sales.cs",
               "DocumentMoniker": "E:\\college\\Project III\\New one\\Resources\\Sales.cs",
               "RelativeDocumentMoniker": "New one\\Resources\\Sales.cs",
               "ToolTip": "E:\\college\\Project III\\New one\\Resources\\Sales.cs",
               "RelativeToolTip": "New one\\Resources\\Sales.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAswBoAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-19T03:41:21.265Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Sales.cs [Design]",
               "DocumentMoniker": "E:\\college\\Project III\\New one\\Resources\\Sales.cs",
               "RelativeDocumentMoniker": "New one\\Resources\\Sales.cs",
               "ToolTip": "E:\\college\\Project III\\New one\\Resources\\Sales.cs [Design]",
               "RelativeToolTip": "New one\\Resources\\Sales.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T03:06:12.799Z"
+              "WhenOpened": "2025-07-16T03:06:12.799Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Dashboard.cs",
-              "DocumentMoniker": "E:\\college\\Project III\\New one\\Dashboard.cs",
-              "RelativeDocumentMoniker": "New one\\Dashboard.cs",
-              "ToolTip": "E:\\college\\Project III\\New one\\Dashboard.cs",
-              "RelativeToolTip": "New one\\Dashboard.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAswB0AAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T03:03:46.116Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Dashboard.cs [Design]",
               "DocumentMoniker": "E:\\college\\Project III\\New one\\Dashboard.cs",
               "RelativeDocumentMoniker": "New one\\Dashboard.cs",
@@ -99,15 +116,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\college\\Project III\\New one\\Program.cs",
               "RelativeDocumentMoniker": "New one\\Program.cs",
               "ToolTip": "E:\\college\\Project III\\New one\\Program.cs",
               "RelativeToolTip": "New one\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T09:28:23.174Z"
+              "WhenOpened": "2025-07-14T09:28:23.174Z",
+              "EditorCaption": ""
             }
           ]
         },

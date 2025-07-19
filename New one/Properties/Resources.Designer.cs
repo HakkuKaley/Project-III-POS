@@ -103,6 +103,16 @@ namespace New_one.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap loginbg {
+            get {
+                object obj = ResourceManager.GetObject("loginbg", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap lVendora_full_1_4x {
             get {
                 object obj = ResourceManager.GetObject("lVendora full_1@4x", resourceCulture);
