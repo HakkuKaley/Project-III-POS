@@ -16,3 +16,4 @@ E:\college\Project III\New one\obj\Debug\net8.0-windows\ref\New one.dll
 E:\college\Project III\New one\obj\Debug\net8.0-windows\New_one.Properties.Resources.resources
 E:\college\Project III\New one\obj\Debug\net8.0-windows\New one.sourcelink.json
 E:\college\Project III\New one\obj\Debug\net8.0-windows\New_one.Dashboard.resources
+E:\college\Project III\New one\obj\Debug\net8.0-windows\New_one.Resources.Sales.resources

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using New_one.Resources;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -15,6 +16,18 @@ namespace New_one
         public Dashboard()
         {
             InitializeComponent();
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+            Sales Obj = new Sales();
+            Obj.Show();
+            this.Hide();
         }
     }
 }
