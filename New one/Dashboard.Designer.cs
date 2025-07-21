@@ -59,10 +59,11 @@
             // 
             // panel2
             // 
-            panel2.BackgroundImage = Properties.Resources.new_gradient;
+            panel2.BackColor = Color.FromArgb(5, 28, 22);
             panel2.Controls.Add(panel6);
             panel2.Controls.Add(panel4);
             panel2.Controls.Add(panel3);
+            panel2.Dock = DockStyle.Fill;
             panel2.Location = new Point(230, 0);
             panel2.Name = "panel2";
             panel2.Size = new Size(720, 630);
@@ -130,6 +131,7 @@
             panel1.Controls.Add(pictureBox3);
             panel1.Controls.Add(label1);
             panel1.Controls.Add(pictureBox1);
+            panel1.Dock = DockStyle.Left;
             panel1.Location = new Point(0, 0);
             panel1.Name = "panel1";
             panel1.Size = new Size(230, 630);
@@ -170,6 +172,7 @@
             // 
             // pictureBox6
             // 
+            pictureBox6.Anchor = AnchorStyles.None;
             pictureBox6.Image = Properties.Resources.log_out;
             pictureBox6.Location = new Point(45, 534);
             pictureBox6.Name = "pictureBox6";
@@ -180,6 +183,7 @@
             // 
             // label6
             // 
+            label6.Anchor = AnchorStyles.None;
             label6.AutoSize = true;
             label6.BackColor = Color.Transparent;
             label6.Font = new Font("Fivo Sans Modern", 11.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
@@ -264,10 +268,11 @@
             ClientSize = new Size(950, 630);
             Controls.Add(panel2);
             Controls.Add(panel1);
-            FormBorderStyle = FormBorderStyle.None;
+            FormBorderStyle = FormBorderStyle.FixedSingle;
             Name = "Dashboard";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Form1";
+            WindowState = FormWindowState.Maximized;
             panel2.ResumeLayout(false);
             panel3.ResumeLayout(false);
             panel3.PerformLayout();

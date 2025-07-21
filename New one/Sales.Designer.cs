@@ -60,9 +60,10 @@
             // 
             // panel2
             // 
-            panel2.BackgroundImage = Properties.Resources.new_gradient;
+            panel2.BackColor = Color.FromArgb(5, 28, 22);
             panel2.Controls.Add(panel4);
             panel2.Controls.Add(panel3);
+            panel2.Dock = DockStyle.Fill;
             panel2.Location = new Point(230, 0);
             panel2.Name = "panel2";
             panel2.Size = new Size(720, 630);
@@ -145,6 +146,7 @@
             panel1.Controls.Add(label3);
             panel1.Controls.Add(pictureBox1);
             panel1.Controls.Add(panel7);
+            panel1.Dock = DockStyle.Left;
             panel1.Location = new Point(0, 0);
             panel1.Name = "panel1";
             panel1.Size = new Size(230, 630);
@@ -269,10 +271,11 @@
             ClientSize = new Size(950, 630);
             Controls.Add(panel2);
             Controls.Add(panel1);
-            FormBorderStyle = FormBorderStyle.None;
+            FormBorderStyle = FormBorderStyle.FixedSingle;
             Name = "Sales";
-            StartPosition = FormStartPosition.CenterScreen;
+            StartPosition = FormStartPosition.CenterParent;
             Text = "Sales";
+            WindowState = FormWindowState.Maximized;
             panel2.ResumeLayout(false);
             panel4.ResumeLayout(false);
             panel4.PerformLayout();

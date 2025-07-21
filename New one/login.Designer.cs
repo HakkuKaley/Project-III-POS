@@ -40,6 +40,7 @@
             // 
             // pictureBox1
             // 
+            pictureBox1.Anchor = AnchorStyles.None;
             pictureBox1.BackColor = Color.Transparent;
             pictureBox1.Image = Properties.Resources.lVendora_full_1_4x;
             pictureBox1.Location = new Point(114, 70);
@@ -51,29 +52,32 @@
             // 
             // textBox1
             // 
+            textBox1.Anchor = AnchorStyles.None;
             textBox1.BackColor = Color.FromArgb(14, 50, 34);
             textBox1.BorderStyle = BorderStyle.None;
-            textBox1.Location = new Point(93, 185);
+            textBox1.Location = new Point(93, 182);
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(198, 16);
             textBox1.TabIndex = 2;
             // 
             // textBox2
             // 
+            textBox2.Anchor = AnchorStyles.None;
             textBox2.BackColor = Color.FromArgb(14, 50, 34);
             textBox2.BorderStyle = BorderStyle.None;
-            textBox2.Location = new Point(93, 235);
+            textBox2.Location = new Point(93, 232);
             textBox2.Name = "textBox2";
             textBox2.Size = new Size(198, 16);
             textBox2.TabIndex = 2;
             // 
             // label1
             // 
+            label1.Anchor = AnchorStyles.None;
             label1.AutoSize = true;
             label1.BackColor = Color.Transparent;
             label1.Font = new Font("Fivo Sans Modern", 11.25F);
             label1.ForeColor = SystemColors.ButtonFace;
-            label1.Location = new Point(153, 167);
+            label1.Location = new Point(153, 164);
             label1.Name = "label1";
             label1.Size = new Size(78, 15);
             label1.TabIndex = 3;
@@ -81,11 +85,12 @@
             // 
             // label2
             // 
+            label2.Anchor = AnchorStyles.None;
             label2.AutoSize = true;
             label2.BackColor = Color.Transparent;
             label2.Font = new Font("Fivo Sans Modern", 11.25F);
             label2.ForeColor = SystemColors.ButtonFace;
-            label2.Location = new Point(153, 217);
+            label2.Location = new Point(153, 214);
             label2.Name = "label2";
             label2.Size = new Size(78, 15);
             label2.TabIndex = 3;
@@ -93,11 +98,12 @@
             // 
             // button1
             // 
+            button1.Anchor = AnchorStyles.None;
             button1.BackColor = Color.FromArgb(172, 255, 141);
             button1.BackgroundImageLayout = ImageLayout.None;
             button1.FlatStyle = FlatStyle.Flat;
             button1.Font = new Font("Fivo Sans Modern", 8.999999F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            button1.Location = new Point(155, 300);
+            button1.Location = new Point(155, 318);
             button1.Name = "button1";
             button1.Size = new Size(75, 23);
             button1.TabIndex = 4;
@@ -106,11 +112,12 @@
             // 
             // label3
             // 
+            label3.Anchor = AnchorStyles.None;
             label3.AutoSize = true;
             label3.BackColor = Color.Transparent;
             label3.Font = new Font("Fivo Sans Modern", 8.249999F, FontStyle.Regular, GraphicsUnit.Point, 0);
             label3.ForeColor = SystemColors.ButtonFace;
-            label3.Location = new Point(124, 340);
+            label3.Location = new Point(124, 358);
             label3.Name = "label3";
             label3.Size = new Size(137, 11);
             label3.TabIndex = 3;
@@ -120,7 +127,8 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            BackgroundImage = Properties.Resources.loginbg;
+            BackColor = Color.FromArgb(5, 28, 22);
+            BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(384, 461);
             Controls.Add(button1);
             Controls.Add(label3);
@@ -129,7 +137,7 @@
             Controls.Add(textBox2);
             Controls.Add(textBox1);
             Controls.Add(pictureBox1);
-            FormBorderStyle = FormBorderStyle.None;
+            FormBorderStyle = FormBorderStyle.FixedSingle;
             Name = "login";
             Text = "Form1";
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
